@@ -1,7 +1,7 @@
 OSMonitor Classical
 
 ## Notice ##
-This is a old version, I won't to maintain it anymore, so please don't issue a ticket. 
+This is a old version, I won't maintain it anymore, so please don't issue a ticket. 
 
 ## Introduction ##
 
