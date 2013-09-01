@@ -13,8 +13,3 @@ OSMonitor is a small tool let you monitor your android phone.
 - Connection - display every tcp or udp network connection, and query it via WHOIS ( require Google Map )
 - Misc - monitor processor, battery and file system.
 - Log - check dmesg or logcat in real-time.
-
-
-*Thanks to following translation contributors:*
-> Brazilian Portuguese - Thanks to Alex Fiorani<br>
-> Danish - Thanks to Kasper Kristensen
